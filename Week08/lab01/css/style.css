@@ -1,0 +1,26 @@
+
+body {
+   font-family: Arial, sans-serif;
+  background-color: #050845;
+}
+.container {
+    background-color:#fdf8f2;
+    margin:3%;
+    padding:1%;
+    overflow:auto;
+}
+nav , header {
+ background-color:#256290;
+ padding:2em;
+ margin-bottom:0.5em;
+}
+h1 , a:link , a:visited {
+    color:white;
+}
+nav {
+float:left;
+width:13em;
+}
+section {
+margin-left:14em;
+}

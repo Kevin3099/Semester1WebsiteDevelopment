@@ -1,0 +1,48 @@
+ .table{
+  width: 600px; 
+  margin:2em auto;
+} 
+
+.table td, .table th {
+    border: none;
+}
+
+.table-responsive {
+     display: table;   
+}
+
+.table th{
+  text-align: right;
+}
+
+.table th.diff {
+text-align:left;
+}
+
+td:nth-child(n+2){
+  text-align: right;
+}
+tr:last-child{
+  font-weight: bolder;
+}
+
+td:last-child{
+  font-weight: bolder;
+}
+tr:last-child td:last-child{
+  font-size:24px;
+}
+
+.ui.table ,thead ,th {
+    background-color:(158, 76, 76);
+    color:white;
+}
+.ui.striped.table > tr:nth-child(2n),.ui.striped.table tbody tr:nth-child(2n)  {
+    background-color:(158, 76, 76,.3);   
+}
+ui.selectable.table tbody tr:hover,.ui.table tbody tr td.selectable:hover {
+   background-color:(158, 76, 76,.5); 
+}
+
+
+

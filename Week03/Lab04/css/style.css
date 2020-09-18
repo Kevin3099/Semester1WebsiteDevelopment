@@ -1,0 +1,54 @@
+body {
+    background-color:#e2edff;
+    color:#000080;
+font-family;"Verdana Helvetica" , "Arial";
+line-height:125%;
+}
+blockquote , p {
+    font-size:small;
+color:navy;
+}
+li {
+    font-size:small;
+}
+h1 {
+    font-size:x-large;
+}
+h2 {
+    font-size:medium;
+font-weight:normal;
+}
+h1,h2,h3 {
+    font-family:"Trebuchet MS", "Helvetica", "Arial";
+    background-color:navy;
+color:white;
+}
+a {
+    font-weight:bold;
+}
+a:link {
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+    color:white;
+background-color:navy;
+}
+a:active {
+    background-color:navy;
+    color:aqua;
+}
+p a:link {
+    text-decoration:none;
+}
+#tagline {
+    font-style:italic;
+    font-family:"Georgia" , "Times";
+}
+.fun {
+    color:#339999;
+font-family:"Georgia" , "Times" , "serif";
+    letter-spacing:.05em;
+    
+}

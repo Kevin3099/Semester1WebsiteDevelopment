@@ -1,0 +1,32 @@
+table {
+   width:60%;
+   margin:5% auto;
+    border-collapse:collapse;
+}
+th,td {
+border-left: solid 1px #363;
+border-right: solid 1px #363;
+padding:.4em;
+}
+thead {
+    background-color:#393;
+    color:white;
+	text-align: left;
+}
+
+td{
+    text-align: center;
+}
+
+tbody {
+    font-style:italic;
+}
+tbody tr:nth-last-of-type(even) {
+    background: #8e8;
+}
+tbody tr:nth-last-of-type(odd) {
+    background: #9f9;
+}
+hover{
+    background:#393;
+}

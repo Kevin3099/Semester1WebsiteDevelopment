@@ -1,0 +1,17 @@
+body {
+    background-color:#00F;
+}
+h1,h2 {
+    color:#0FF
+}
+
+span {
+    color:orange;
+}
+p,p2,ul ,li {
+    color:white;
+}
+ul,li {
+    text-align:left;
+    
+}

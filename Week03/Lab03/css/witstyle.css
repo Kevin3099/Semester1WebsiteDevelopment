@@ -1,0 +1,49 @@
+body {
+	background-color:#FFFFE0;
+	color:#0066cc;
+	font-family:"Verdana","Geneva";
+}
+    h1, h2 {
+        font-family:"Georgia" , "Times New Roman"; 
+        color:#666;
+}
+
+h1 {
+    font-size:1.5em;
+}
+h2 {
+    font-size:1.25em;
+}
+ul {
+    list-style-type:none;width;18%;
+}
+li {
+    margin: 1em 0; color:#B0C4DE;padding:.5em; border left : solid black 5px; border right : solid black 5px;
+    
+}
+
+a {
+    font-weight:bold;
+    text-align:center;
+}
+
+a:link, a:visited {
+    color:navy;
+text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+a:active {
+    color:aqua;
+}
+p a:hover {
+text-decoration:none;
+}
+img {
+    float:right;
+    margin:left:1%;
+}
+p.news{
+    font-family:Cursive;
+}

@@ -1,0 +1,25 @@
+body
+{
+	background-color:#e0ffff;
+	color:navy;
+font-family:Garamond , serif;
+ text-transform:uppercase;
+}
+h3
+{
+	background-color:blue;
+	color:white;
+	font-size:18px
+	text-transform:uppercase;
+}
+p 
+{
+	font-family:<Verdana>[<Helvetica>];
+	font-size:14px;
+	color:#00080;
+	text-transform:uppercase;
+}
+address
+{
+	font-size:110%;
+}

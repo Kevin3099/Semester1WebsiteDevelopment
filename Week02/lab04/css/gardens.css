@@ -1,0 +1,26 @@
+body
+{
+	background-color:#EEEEEE;
+	color:#00080;
+	font-family:Verdana;
+	font-size:15px;
+}
+
+h1
+{
+	background-color:#BDB69C;
+	color:#565B60;
+	font-size:3em;
+	text-decoration:uppercase;
+}
+p 
+{
+	text-align:justify;
+	line-height:1.5em;
+}
+q
+{
+font-family: Comic Sans, cursive;
+color:darkslateblue;
+font-size:110%;
+}

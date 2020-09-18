@@ -1,0 +1,12 @@
+table,th,td {
+    border:solid navy
+ 1px;
+}
+table {
+    border-spacing:1em;
+    width:50%;
+    margin:3% 0;
+    color:#003399;
+text-align:center;
+}
+

@@ -1,0 +1,8 @@
+table,th,tr,td {
+border: solid black 1px; 
+margin:2em;
+}
+
+th,td {
+    padding:0.1em, 1em;  
+}
